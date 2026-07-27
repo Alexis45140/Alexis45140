@@ -1,16 +1,14 @@
-## Hi there 👋
+### 👋 Alexis — Data Analyst Junior, ex-logistique
 
-<!--
-**Alexis45140/Alexis45140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je construis des pipelines de données de bout en bout (extraction → transformation dbt → visualisation) et j'apporte une vraie compréhension métier supply chain à l'analyse de données.
 
-Here are some ideas to get you started:
+**🛠️ Stack** : SQL · Python (Pandas) · dbt · Snowflake · BigQuery · Power BI · Tableau · Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📌 Projets phares**
+- 🏗️ [dbt-snowflake-retail-analytics](https://github.com/Alexis45140/dbt-snowflake-retail-analytics) — pipeline retail complet, CSV → Snowflake → dbt → Tableau
+- ⚽ [football-data-pipeline](https://github.com/Alexis45140/football-data-pipeline) — API → BigQuery → dbt → Docker → Power BI
+- 👥 [Employee-Data-Analysis...](https://github.com/Alexis45140/Employee-Data-Analysis-Insights-Performance-SQL) — pipeline RH sur MySQL, dbt + tests automatisés
+
+**📫 Contact** :
+- 🐙 [GitHub](https://github.com/Alexis45140)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexis-claudeon)
