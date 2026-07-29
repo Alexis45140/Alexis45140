@@ -12,3 +12,4 @@ Je construis des pipelines de données de bout en bout (extraction → transform
 **📫 Contact** :
 - 🐙 [GitHub](https://github.com/Alexis45140)
 - 💼 [LinkedIn](https://www.linkedin.com/in/alexis-claudeon)
+- 📨 alexis.claudeon@outlook.fr
