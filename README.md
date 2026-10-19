@@ -10,6 +10,7 @@ Je construis des pipelines de données de bout en bout (extraction → transform
 - **Outils** : Docker · Git
 
 **📌 Projets phares**
+- 🧾 [p2p-process-mining-sap](https://github.com/Alexis45140/p2p-process-mining-sap) — process mining des achats sur données ERP réelles de type SAP : 655 lignes payées avant réception repérées (≈ 1,75 M€) · Python, dbt, DuckDB, Power BI
 - 🏦 [bank-sas-migration](https://github.com/Alexis45140/bank-sas-migration) — migration bancaire SAS → Dataiku → Python, recette automatisée + Power BI
 - 🔍 [fraud-bank](https://github.com/Alexis45140/fraud-bank) — règle de détection de fraude bancaire : 0,2 % → 99,1 % de fraudes détectées, 83 % d'alertes justifiées · Python, KNIME, Power BI
 - 🏗️ [dbt-snowflake-retail-analytics](https://github.com/Alexis45140/dbt-snowflake-retail-analytics) — pipeline retail complet, CSV → Snowflake → dbt → Tableau
