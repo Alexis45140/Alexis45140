@@ -1,10 +1,10 @@
 ### 👋 Alexis — Data Analyst Junior, ex-logistique
 
-Je construis des pipelines de données de bout en bout (extraction → transformation dbt → visualisation) et je sais migrer un traitement SAS vers Dataiku et Python en prouvant, par une recette automatisée, que les chiffres restent identiques. J'apporte aussi une vraie compréhension métier supply chain à l'analyse de données.
+Je construis des pipelines de données de bout en bout (extraction → transformation dbt → visualisation) et je sais migrer un traitement SAS vers Dataiku et Python en prouvant, par une recette automatisée, que les chiffres restent identiques. Sur les achats, je reconstitue le parcours réel des commandes à partir des données d'un ERP de type SAP et j'y applique des contrôles de conformité. J'apporte aussi une vraie compréhension métier supply chain à l'analyse de données.
 
 **🛠️ Stack**
-- **Langages** : SQL · Python (Pandas) · SAS
-- **Bases et entrepôts de données** : Snowflake · BigQuery · MySQL
+- **Langages** : SQL · Python (Pandas, PM4Py) · SAS
+- **Bases et entrepôts de données** : Snowflake · BigQuery · MySQL · DuckDB
 - **Transformation et préparation** : dbt · Dataiku · KNIME
 - **Visualisation** : Power BI · Tableau
 - **Outils** : Docker · Git
